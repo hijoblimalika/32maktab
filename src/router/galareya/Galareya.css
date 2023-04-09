@@ -1,0 +1,30 @@
+.galareya__container{
+    width: 100%;
+    height: auto;
+
+}
+.galareya__box{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.galareya__box__img{
+    width: 30%;
+    flex-wrap: wrap;
+    border-radius: 25px;
+    border: 10px solid dodgerblue;
+    margin-left: 2%;
+}
+.galareya__box__img img{
+    width: 100%;
+    flex-wrap: wrap;
+}
+@media screen and (max-width:600px){
+.galareya__box__img{
+    width: 95%;
+    margin-top: 20px;
+    display: block;
+}
+}

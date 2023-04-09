@@ -1,0 +1,41 @@
+.maktabimizhaqida__container{
+    /* width: 100%; */
+    display: flex;
+}
+.maktabimizhaqida__box{
+    width: 50%;
+}
+.maktabimizhaqida__box img{
+    width: 80%;
+    margin: 50px 40px;
+}
+.maktabimizhaqida__box h1{
+    font-style: italic;
+    margin-top: 50px;
+}
+.maktabimizhaqida__box p{
+    width: 80%;
+    font-size: 20px;
+    margin-top: 15px;
+    font-style: italic;
+    color: #444444;
+}
+.maktabimizhaqida__box b{
+    font-size: 18px;
+    margin-top: 20px;
+}
+@media screen and (max-width:1000px){
+    .maktabimizhaqida__container{
+        display: block;
+    }
+    .maktabimizhaqida__box{
+        width: 100%;
+    }
+    .mkhaqda__box__text{
+        margin-left: 50px;
+    }
+    .maktabimizhaqida__box img{
+        width: 80%;
+        /* transform: translateX(-20px); */
+    }
+}

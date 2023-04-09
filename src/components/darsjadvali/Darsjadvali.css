@@ -1,0 +1,22 @@
+
+.darsjadvali img{
+    border: 5px solid #1E90FF;
+    width: 70%;
+    margin: 10px 205px;
+}
+.darsjadvali h1{
+    text-align: center;
+    color: #1E90FF;
+}
+@media screen and (max-width:800px){
+    .darsjadvali {
+        width: 80%;
+        margin-top: 100%;
+    }
+    .darsjadvali img{
+        width: 100%;
+        transform: translateX(-40px);
+    }
+}
+
+
