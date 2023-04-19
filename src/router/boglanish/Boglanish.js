@@ -11,8 +11,7 @@ function Boglanish() {
               <div className="boglanish__box">
                 <br />
                 <br />
-                  <p>+998(88)8888888</p>
-                  <p>+998(88)8888888</p>
+                  <p>+998(91)344-00-31</p>
                       <br />
                   <p>info@namangan32maktab.com</p>
 

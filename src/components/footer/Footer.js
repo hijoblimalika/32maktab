@@ -12,7 +12,7 @@ function Footer() {
                     <p>Manzil: Namangan viloyati. Namangan shahri. Yangi yo'l MFY</p>
                 </div>
                 <div className="footer__box__quti2">
-                    <p>Telefon: +998888888888</p>
+                    <p>Telefon: +998913440031</p>
                 </div>
                 <div className="footer__box__quti3">
                     <p>Gmail: 32maktab@gmail.com</p>
