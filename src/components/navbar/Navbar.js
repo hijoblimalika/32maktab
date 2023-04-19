@@ -17,13 +17,10 @@ function Navbar() {
       <li><Link to={"./maktabimizhaqida"}>Maktabimiz haqida</Link></li>
       <li><Link to={"./oqituvchilar"}>O'qituvchilar</Link></li>
       <li><Link to={"./boglanish"}>Bog'lanish</Link></li>
-      <li><Link to={"./darsjadval"}>Dars jadvali</Link></li>
-      <li><Link to={"./darsiwlanmalari"}>Dars ishlanmalari</Link></li>
       <li><Link to={"./galareya"}>Galareya</Link></li>
      
     </ul>
   </section>
-
     <h2>Assalomu aleykum 32-maktab web saytiga xush kelibsiz</h2>
 
     </div>
@@ -31,3 +28,6 @@ function Navbar() {
 }
 
 export default Navbar
+
+
+
