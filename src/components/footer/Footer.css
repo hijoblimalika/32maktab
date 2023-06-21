@@ -1,4 +1,4 @@
-.footer__container{
+    .footer__container{
     width: 100%;
     height: auto;
     background:#1E90FF ;
@@ -6,7 +6,7 @@
 }
 
 .footer__box{
-    width: 50%;
+    width: 50%; 
     height: 100%;
 }
 .footer__box h1{
